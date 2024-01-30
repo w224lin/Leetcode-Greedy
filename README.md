@@ -1,2 +1,2 @@
 # Leetcode-Greedy
-Some classic algorithm problem on Leet code about Greedy question. Keep update
+Some classic algorithm problem on Leet code about Greedy question. Keep updated.
