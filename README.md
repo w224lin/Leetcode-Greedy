@@ -23,8 +23,7 @@ Provide a Solution with stack + greedy in O(n).
 
 Provide a Solution with greedy in O(nlgn).
 
-<<<<<<< Updated upstream
-=======
+
 ### Question. 1353. MaxEventAttendence
 
 - 1353 [MaxEventAttendence](https://leetcode.cn/problems/maximum-number-of-events-that-can-be-attended/)
@@ -32,7 +31,6 @@ Provide a Solution with greedy in O(nlgn).
 Provide a Solution with greedy in O(nlgn). 
 
 
->>>>>>> Stashed changes
 ## Hard
 
 Some hard leet code greedy question.
