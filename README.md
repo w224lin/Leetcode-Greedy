@@ -23,3 +23,12 @@ Provide a Solution with stack + greedy in O(n).
 
 Provide a Solution with greedy in O(nlgn).
 
+## Hard
+
+Some hard leet code greedy question.
+
+### Question. 23. Merge K Sorted Lists
+
+- 23 [Merge K Sorted Lists](https://leetcode.cn/problems/merge-k-sorted-lists/)
+
+Provide a Solution with PriorityQueue and Pointer operations in O(mlgn).
