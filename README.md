@@ -1,6 +1,16 @@
 # Leetcode-Greedy
 Some classic algorithm problem on Leet code about Greedy question. Keep updated.
 
+## Easy
+
+Some easy leet code greedy question.
+
+### Question. 455. Assign Cookies
+
+- 455 [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)
+
+Provide a Solution greedy in O(nlgn).
+
 ## Medium
 
 Some medium leet code greedy question.
@@ -22,6 +32,12 @@ Provide a Solution with stack + greedy in O(n).
 - 435 [Non overlaping intervals](https://leetcode.cn/problems/non-overlapping-intervals/)
 
 Provide a Solution with greedy in O(nlgn).
+
+### Question. 738. monotone-increasing-digits
+
+- 738 [monotone-increasing-digits](https://leetcode.cn/problems/monotone-increasing-digits/)
+
+Provide a Solution with greedy in O(lgn).
 
 
 ### Question. 1353. MaxEventAttendence
